@@ -1,0 +1,19 @@
+header{
+    background-color:  #DCAAAA  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    margin: 30px;
+}
+
+
+header h1 {
+    background-color: #DCAAAA;
+    color: black;
+    
+    font-size: 40px;
+    font-weight: normal;
+    margin: 30px;
+    text-align: center;
+}
