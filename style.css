@@ -5,15 +5,28 @@ header{
     align-items: center;
     height: 50px;
     margin: 30px;
+    border-radius: 25px;
+    border-color: aqua;
 }
 
 
 header h1 {
     background-color: #DCAAAA;
     color: black;
-    
     font-size: 40px;
     font-weight: normal;
     margin: 30px;
     text-align: center;
+}
+
+
+.recept-info{
+    background-color:#B88A8A;
+    padding: 10px;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.recept-info img {
+width: 30%;
 }
